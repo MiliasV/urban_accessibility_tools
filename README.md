@@ -63,7 +63,7 @@ Interactive platform for exploring **5- and 15-minute accessibility to everyday 
 ---
 
 ### CTstreets — Street-level Walkability  
-🔗 https://miliasv.github.io/CTstreets/?city=amsterdam
+🔗 [https://miliasv.github.io/CTstreets/?city=amsterdam](https://miliasv.github.io/CTstreets/?city=amsterdam)
 
 Tool for assessing **walkability through both physical and perceived urban qualities**.
 
