@@ -52,7 +52,7 @@ accessX acts as the **analytical engine** supporting the development of multiple
 ## 🌍 Interactive Tools
 
 ### CThood — Mapping the X-minute City  
-🔗 https://miliasv.github.io/CThood/  
+🔗 https://miliasv.github.io/CThood/?city=athens
 
 Interactive platform for exploring **5- and 15-minute accessibility to everyday services**.
 
@@ -64,7 +64,7 @@ Interactive platform for exploring **5- and 15-minute accessibility to everyday 
 ---
 
 ### CTstreets — Street-level Walkability  
-🔗 https://miliasv.github.io/CTstreets/  
+🔗 https://miliasv.github.io/CTstreets/?city=amsterdam
 
 Tool for assessing **walkability through both physical and perceived urban qualities**.
 
@@ -76,7 +76,7 @@ Tool for assessing **walkability through both physical and perceived urban quali
 ---
 
 ### CTwalk — Co-accessibility & Potential Encounters  
-🔗 https://miliasv.github.io/bio_VM/#projects-tools  
+🔗 https://miliasv.github.io/CTwalk/?city=rotterdam
 
 Interactive framework for analysing **shared accessibility to opportunities across populations**.
 
