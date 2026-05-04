@@ -40,10 +40,11 @@ Developed by Vasileios Milias across research at the National Technical Universi
 A modular Python library for building **reproducible accessibility workflows**.
 
 Core capabilities:
-- Network-based isochrones (OSMnx / NetworkX)  
-- H3-based spatial aggregation  
-- Custom accessibility and proximity indicators  
-- Extensible architecture for research and planning  
+- Network-based isochrones
+- H3-based spatial aggregation
+- Population data enrichment
+- Accessibility and proximity indicators
+- Equity indicators
 
 accessX acts as the **analytical engine** supporting the development of multiple interactive tools for accessibility, walkability, and co-accessibility analysis.
 
