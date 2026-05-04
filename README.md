@@ -13,22 +13,22 @@ Developed by Vasileios Milias across research at the National Technical Universi
 
 ## 🧭 Ecosystem Overview
 
-accessX — Python toolkit for network-based accessibility analysis
-│
-├── CThood — Accessibility & equity in X-minute cities
-│   ├── 5- and 15-minute walking catchments
-│   ├── Multi-service accessibility (e.g. food, education, green space)
-│   └── Distributional and threshold-based equity analysis
-│
-├── CTstreets — Street-level walkability
-│   ├── Walkability index combining urban form and perception
-│   ├── Open data + participatory expert input
-│   └── Outputs from street segment to neighbourhood scale
-│
-└── CTwalk — Co-accessibility & potential encounters
-    ├── Shared accessibility across population groups
-    ├── Estimation of reachable populations
-    └── Indicators of social cohesion and interaction potential
+**accessX** — Python toolkit for network-based accessibility analysis
+
+- **CThood** — Accessibility & equity in X-minute cities  
+  - 5- and 15-minute walking catchments  
+  - Multi-service accessibility (e.g. food, education, green space)  
+  - Distributional and threshold-based equity analysis  
+
+- **CTstreets** — Street-level walkability  
+  - Walkability index combining urban form and perception  
+  - Open data + participatory expert input  
+  - Outputs from street segment to neighbourhood scale  
+
+- **CTwalk** — Co-accessibility & potential encounters  
+  - Shared accessibility across population groups  
+  - Estimation of reachable populations  
+  - Indicators of social cohesion and interaction potential  
 
 ---
 
