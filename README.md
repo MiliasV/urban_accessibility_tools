@@ -7,7 +7,7 @@
 
 A curated ecosystem of interactive tools and computational methods for analysing **urban accessibility, walkability, and proximity-based planning**.
 
-Developed by Vasileios Milias across research at the National Technical University of Athens (NTUA), TU Delft, and European collaborations.
+Developed by Vasileios Milias across research at the National Technical University of Athens (NTUA), TU Delft, and Transform Transport.
 
 ---
 
