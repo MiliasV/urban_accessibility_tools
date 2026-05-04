@@ -94,22 +94,18 @@ Interactive framework for analysing **shared accessibility to opportunities acro
 
 - Milias, V., Psyllidis, A., & Bozzon, A. (2024).  
   *Bridging or separating? Co-accessibility as a measure of potential place-based encounters.*  
-  Journal of Transport Geography  
+  Journal of Transport Geography 
 
 - Cardoso, M., Milias, V., & Harteveld, M. (2024).  
   *Developing a city-specific walkability index through a participatory approach.*  
-  AGILE: GIScience Series  
+  AGILE: GIScience Series  [CTstreets]
 
 - Milias, V., Tsigdinos, S., Tzouras, P. G., & Kepaptsoglou, K. (2025).  
   *Assessing equitable access in X-minute cities through open spatial data.*  
-  Environment and Planning B: Urban Analytics and City Science  
+  Environment and Planning B: Urban Analytics and City Science  [CThood]
 
 - Milias, V., & Psyllidis, A. (2025).  
   *CTwalk: Mapping potential inter-population encounters in X-minute neighbourhoods.*  
-  CUPUM Conference  
-
-- Psyllidis, A., & Milias, V. (2025).  
-  *Population-specific factors of pedestrian accessibility: Bridging practitioner insights and accessibility metrics.*  
   CUPUM Conference  
 
 ---
