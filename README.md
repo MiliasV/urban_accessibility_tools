@@ -35,7 +35,7 @@ accessX — Python toolkit for network-based accessibility analysis
 ## 🧪 Methodological Backbone
 
 ### accessX — Python Toolkit  
-🔗 https://github.com/YOUR-ORG/accessX  
+🔗 TBD
 
 A modular Python library for building **reproducible accessibility workflows**.
 
