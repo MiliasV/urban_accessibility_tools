@@ -5,7 +5,7 @@
 ![Focus](https://img.shields.io/badge/focus-urban%20accessibility-blue)
 ![Scope](https://img.shields.io/badge/scope-X--minute%20city-informational)
 
-A curated ecosystem of interactive tools and computational methods for analysing **urban accessibility, walkability, and proximity-based planning**.
+A curated ecosystem of links to interactive tools and computational methods for analysing **urban accessibility, walkability, and proximity-based planning**.
 
 Developed by Vasileios Milias across research at the National Technical University of Athens (NTUA), TU Delft, and Transform Transport.
 
