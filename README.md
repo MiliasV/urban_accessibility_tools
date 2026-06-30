@@ -33,7 +33,7 @@ A curated ecosystem of links to interactive tools and computational methods for 
 ## 🧪 Methodological Backbone
 
 ### accessX — Python Toolkit  
-🔗 [https://github.com/TransformTransport/accessX](accessX_Github)
+🔗[accessX Github](https://github.com/TransformTransport/accessX)
 
 A modular Python library for building **reproducible accessibility workflows**.
 
