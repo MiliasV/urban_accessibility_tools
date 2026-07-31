@@ -133,13 +133,6 @@ Senior Researcher — Transform Transport
 
 ---
 
-## ⚙️ Notes
-
-- Some components are not fully open-source due to project constraints  
-- Interactive demos are provided where code is not publicly available  
-- The ecosystem is under active development  
-
----
 
 ## 🔗 Usage & Attribution
 
