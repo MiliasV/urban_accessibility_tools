@@ -11,8 +11,10 @@ A curated ecosystem of links to interactive tools and computational methods for 
 
 ## 🧭 Ecosystem Overview
 
+### Code
 **accessX** — Python toolkit for network-based accessibility analysis
 
+### Maps
 - **CThood** — Accessibility & equity in X-minute cities  
   - 5- and 15-minute walking catchments  
   - Multi-service accessibility (e.g. food, education, green space)  
