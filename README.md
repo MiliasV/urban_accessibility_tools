@@ -88,6 +88,7 @@ Interactive framework for analysing **shared accessibility to opportunities acro
 
 ## 📄 Research Outputs
 
+Full List: [check my google scholar](https://scholar.google.com/citations?user=VQQFtyQAAAAJ&hl=en)
 - Milias, V. (2024). *Urban Co-accessibility.* PhD Dissertation, TU Delft.  
 
 - Milias, V., Psyllidis, A., & Bozzon, A. (2024).  
